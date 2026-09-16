@@ -130,13 +130,3 @@ Training: AdamW (lr=5e-4, wd=5e-4), linear warmup (10 epochs) + cosine annealing
 
 ---
 
-## Contributors
-
-Garima · Pragya Salar · Diya Khatri · Aaryan Yadav
-Department of Computer Science and Engineering, Graphic Era (Deemed to be University), Dehradun
-
----
-
-## License
-
-This project is released under the [MIT License](LICENSE).
